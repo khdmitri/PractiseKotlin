@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PractiseKotlin</string>
+    <string name="first_screen">My First Git Project</string>
+    <string name="my_first_screen">My First Git Project</string>
 </resources>
